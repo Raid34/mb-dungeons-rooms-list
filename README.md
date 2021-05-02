@@ -1,8 +1,8 @@
 # Rooms
 
 List of all the rooms created to be used in mb dungeons
-Room Size | Creator of room | Discord id | Room pictures | Download 
------------- | ------------- | ------------- | ------------- | -------------
+Room Size | Creator Of Room | Discord ID | Room Pictures | Discord Download | Github Download
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
 1x1 + |JustMax#5526 | 698623223872356413 | ![Image](https://cdn.discordapp.com/attachments/822767650450047006/822768969324822548/2021-03-20_10.49.49.png) | [Schem file](https://cdn.discordapp.com/attachments/822767650450047006/822768767196201030/middle2.schem)
 1x1 l |JustMax#5526 | 698623223872356413 | ![Image](https://media.discordapp.net/attachments/822767650450047006/822776190833655808/2021-03-20_11.18.26.png?width=840&height=473) | [Schem file](https://cdn.discordapp.com/attachments/822767650450047006/824243368577073192/toxic_water_fixed.schem)
 1x1 L |JustMax#5526 | 698623223872356413 | ![Image](https://images-ext-1.discordapp.net/external/IIDNKcEvX_Wpa_GB1i3WvCrAfYjAfi8qY8X8e9IYHQI/https/i.imgur.com/fRKoEP6h.jpg?width=841&height=473) | [Schem file](https://cdn.discordapp.com/attachments/822767650450047006/822806081297186856/prison.schem)
